@@ -32,7 +32,7 @@ const LoginForm = () => {
     }
     setUserFormData({
       email: '',
-      password: ''
+      password: '',
       username: ''
     });
   };
